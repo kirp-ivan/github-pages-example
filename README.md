@@ -1,1 +1,1 @@
-# github-pages-example7
+# github-pages-example
